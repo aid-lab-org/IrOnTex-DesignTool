@@ -4,11 +4,7 @@ Hey there! We’re thrilled you’re here. This guide is here to help you naviga
 
 More information of the tool can be found in our paper. If you use this work, please cite our paper:
 
-```
-
-Jiakun Yu, Supun Kuruppu, Biyon Fernando, Praneeth Bimsara Perera, Yuta Sugiura, Sriram Subramanian, Anusha Withana. 2024. IrOnTex: Using Ironable 3D Printed Objects to Fabricate and Prototype Customizable Interactive Textiles. The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT). DOI: https://doi.org/10.1145/3678543
-
-```
+> ``` Jiakun Yu, Supun Kuruppu, Biyon Fernando, Praneeth Bimsara Perera, Yuta Sugiura, Sriram Subramanian, Anusha Withana. 2024. IrOnTex: Using Ironable 3D Printed Objects to Fabricate and Prototype Customizable Interactive Textiles. The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT). DOI: https://doi.org/10.1145/3678543 ```
 
 ## 🚀 Getting Started
 
@@ -149,7 +145,7 @@ Feel stuck? Got questions or bump into any issues? Don’t hesitate to shout –
 - [@JiakunYu](https://www.github.com/JiakunYu)
 - [@PraneethPerera99](https://www.github.com/PraneethPerera99)
 - [@SupunDK](https://www.github.com/SupunDK)
-- Biyon Fernando
+- [@BiyonFernando](https://www.github.com/BiyonFernando)
 - [@wdanusha](https://www.github.com/wdanusha)
 
 
